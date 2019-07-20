@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://map_gen.gd" type="Script" id=1]
-[ext_resource path="res://working.png" type="Texture" id=2]
+[ext_resource path="res://scene/simplex_test/map_gen.gd" type="Script" id=1]
+[ext_resource path="res://artwork/working.png" type="Texture" id=2]
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource( 1 )
